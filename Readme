@@ -1,0 +1,13 @@
+Getting and Cleaning Data Course Project
+
+This repo has been created as part of the Coursera "Getting and Cleaning Data Course Project".
+
+The project consist on downloading specified files to the working directory so code can be writting in R to manipulate the data and 
+produce a clean data set.
+The data provided for the assignement measures different values captured by an accelerometer and gyroscopeon on a smartphone and related
+to six different activities (i.e. walking, sitting).
+
+The code combines the different data sets provided (train, test, variables and activity names) and manipulate to them properly label the 
+varaibles and factors used to summarise the data (by activity and subject).
+The outcome of the code is the generation of a data set that shows the average value for each activity and subject. This outcome is written
+to a file in the working directory.
