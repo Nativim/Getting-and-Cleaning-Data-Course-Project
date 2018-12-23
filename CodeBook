@@ -1,0 +1,14 @@
+Getting and Cleaning Data Course Project
+
+Description
+1. Collect different set of data related to smartphone fitbit sensors
+   subject data, train data, test data, variable names and activity labels
+2. Explore the data sets to understand the data and identify steps to produce a tidy data set
+3. Manipulte the data to name properly the fields that will be used as parameters to group and summarise the data: activities and variables (=subject)
+4. Combined the data in one data set before it can be aggregated
+5. Group the data by activity and subject
+6. Write the tidy data 
+
+Outcome
+They tidy data set requested is a data frame with 180 observationsand 81 variables (str(tidy_data))
+It represents the mean of the raw data grouped by activity and subject
